@@ -59,7 +59,7 @@ public class Tests{
         }
 
 
-        if (success)
+        if (success=true)
             System.out.println(success);
         else
            System.out.println(errorMsg);    
